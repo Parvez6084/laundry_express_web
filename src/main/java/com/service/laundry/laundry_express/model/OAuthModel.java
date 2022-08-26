@@ -1,5 +1,6 @@
 package com.service.laundry.laundry_express.model;
 
+
 public class OAuthModel {
     private String phoneNumber;
     private String password;
